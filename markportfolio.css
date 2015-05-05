@@ -1,0 +1,60 @@
+@import url(http://fonts.googleapis.com/css?family=Abril+Fatface);
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,300);
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.logo{
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 80px;
+	width: 200px;
+	
+}
+
+header{
+	
+	margin: 0;
+	height: 370px;
+	background-color: black;
+	width: 100%;
+}
+
+
+.headline{
+	padding-top: 10px;
+ 	text-align: center;
+	font-family: "Oswald";
+	color: white;
+	font-size: 30px;
+	
+}
+
+.container{
+	padding-top: 30px;
+	width: 220px;
+    margin: 0 auto;
+   
+}
+
+.bio{
+	margin-left: auto;
+  	margin-right: auto;
+	padding-top: 20px;
+	font-family: "Oswald";
+	font-size: 16px;
+	width: 700px;
+}
+
+.links a{
+	float: left;
+	margin: 10px;
+	text-decoration: none;
+	color: black;
+	font-family: "Oswald";
+	font-size: 14px;
+}
